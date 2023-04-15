@@ -1,0 +1,7 @@
+C:\Users\natha\OneDrive\Desktop\Basic_C#_Programs\Daily Report Submission\Daily Report Submission\bin\Debug\Daily Report Submission.exe.config
+C:\Users\natha\OneDrive\Desktop\Basic_C#_Programs\Daily Report Submission\Daily Report Submission\bin\Debug\Daily Report Submission.exe
+C:\Users\natha\OneDrive\Desktop\Basic_C#_Programs\Daily Report Submission\Daily Report Submission\bin\Debug\Daily Report Submission.pdb
+C:\Users\natha\OneDrive\Desktop\Basic_C#_Programs\Daily Report Submission\Daily Report Submission\obj\Debug\Daily Report Submission.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Desktop\Basic_C#_Programs\Daily Report Submission\Daily Report Submission\obj\Debug\Daily Report Submission.exe
+C:\Users\natha\OneDrive\Desktop\Basic_C#_Programs\Daily Report Submission\Daily Report Submission\obj\Debug\Daily Report Submission.pdb
+C:\Users\natha\OneDrive\Desktop\Basic_C#_Programs\Daily Report Submission\Daily Report Submission\obj\Debug\Daily Report Submission.csproj.AssemblyReference.cache
