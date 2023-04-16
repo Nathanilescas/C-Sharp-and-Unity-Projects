@@ -1,0 +1,7 @@
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.exe.config
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.exe
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.exe
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.pdb
