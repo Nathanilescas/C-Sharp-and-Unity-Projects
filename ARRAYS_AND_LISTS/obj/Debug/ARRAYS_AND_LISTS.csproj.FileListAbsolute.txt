@@ -1,0 +1,7 @@
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ARRAYS_AND_LISTS\ARRAYS_AND_LISTS\bin\Debug\ARRAYS_AND_LISTS.exe.config
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ARRAYS_AND_LISTS\ARRAYS_AND_LISTS\bin\Debug\ARRAYS_AND_LISTS.exe
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ARRAYS_AND_LISTS\ARRAYS_AND_LISTS\bin\Debug\ARRAYS_AND_LISTS.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ARRAYS_AND_LISTS\ARRAYS_AND_LISTS\obj\Debug\ARRAYS_AND_LISTS.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ARRAYS_AND_LISTS\ARRAYS_AND_LISTS\obj\Debug\ARRAYS_AND_LISTS.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ARRAYS_AND_LISTS\ARRAYS_AND_LISTS\obj\Debug\ARRAYS_AND_LISTS.exe
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ARRAYS_AND_LISTS\ARRAYS_AND_LISTS\obj\Debug\ARRAYS_AND_LISTS.pdb
