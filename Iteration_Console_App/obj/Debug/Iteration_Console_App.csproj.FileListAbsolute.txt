@@ -1,0 +1,7 @@
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration_Console_App\Iteration_Console_App\bin\Debug\Iteration_Console_App.exe.config
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration_Console_App\Iteration_Console_App\bin\Debug\Iteration_Console_App.exe
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration_Console_App\Iteration_Console_App\bin\Debug\Iteration_Console_App.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration_Console_App\Iteration_Console_App\obj\Debug\Iteration_Console_App.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration_Console_App\Iteration_Console_App\obj\Debug\Iteration_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration_Console_App\Iteration_Console_App\obj\Debug\Iteration_Console_App.exe
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\Iteration_Console_App\Iteration_Console_App\obj\Debug\Iteration_Console_App.pdb
