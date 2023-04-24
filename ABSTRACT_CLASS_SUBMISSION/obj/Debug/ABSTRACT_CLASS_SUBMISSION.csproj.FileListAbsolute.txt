@@ -1,0 +1,7 @@
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ABSTRACT_CLASS_SUBMISSION\ABSTRACT_CLASS_SUBMISSION\bin\Debug\ABSTRACT_CLASS_SUBMISSION.exe.config
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ABSTRACT_CLASS_SUBMISSION\ABSTRACT_CLASS_SUBMISSION\bin\Debug\ABSTRACT_CLASS_SUBMISSION.exe
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ABSTRACT_CLASS_SUBMISSION\ABSTRACT_CLASS_SUBMISSION\bin\Debug\ABSTRACT_CLASS_SUBMISSION.pdb
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ABSTRACT_CLASS_SUBMISSION\ABSTRACT_CLASS_SUBMISSION\obj\Debug\ABSTRACT_CLASS_SUBMISSION.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ABSTRACT_CLASS_SUBMISSION\ABSTRACT_CLASS_SUBMISSION\obj\Debug\ABSTRACT_CLASS_SUBMISSION.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ABSTRACT_CLASS_SUBMISSION\ABSTRACT_CLASS_SUBMISSION\obj\Debug\ABSTRACT_CLASS_SUBMISSION.exe
+C:\Users\natha\OneDrive\Documents\GitHub\Basic_C#_Programs\ABSTRACT_CLASS_SUBMISSION\ABSTRACT_CLASS_SUBMISSION\obj\Debug\ABSTRACT_CLASS_SUBMISSION.pdb
